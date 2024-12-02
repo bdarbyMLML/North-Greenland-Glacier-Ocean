@@ -1,2 +1,2 @@
-# Davis-disco
-A comparison of ECCO llc and high resolution model to observations in West and North Greenland. Including the Davis Straight, Fram Straight, and Disco Bay. 
+# North-Greenland-Glacier-Ocean
+repo for MLML CoOL Group North Greenland ocean-heat-glacier-melt interaction project.
