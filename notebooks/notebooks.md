@@ -10,7 +10,7 @@ This folder contains the notebooks for checking the heat and volume budget closu
 
 ### figures
 
-This folder contains the notebooks for drafts of the figures for the upcoming Darby et al. 2025 manuscript
+This folder contains the notebooks for creating drafts of the figures for the upcoming Darby et al. 2025 manuscript.
 
 ### fluxes
 
